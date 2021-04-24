@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Graphics.ico</file>
+        <file>about.png</file>
+        <file>cancel.png</file>
+        <file>open.png</file>
+        <file>save.png</file>
+        <file>copyRight.png</file>
+        <file>chart.png</file>
+        <file>setting.png</file>
+    </qresource>
+</RCC>
